@@ -1,3 +1,5 @@
-博客地址: https://sakuyakun.top
+[博客地址一：Sakuyakun.top](https://Sakuyakun.top)
 
-前端文章: https://github.com/Sakuyakun/Articles/issues
+[博客地址二：Sakuyakun.github.io](https://sakuyakun.github.io)
+
+[前端相关 issues 文章](https://github.com/Sakuyakun/blog/issues)
