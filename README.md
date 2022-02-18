@@ -1,6 +1,8 @@
 # Frontend-Yearly
 
-front-end articles in issues
+I wrote some front-end articles, probably a few or zero times a year to update
+
+我写的一些前端开发相关的文章，大概一年更新几次或零次
 
 - [Fiber Reconciler](https://github.com/bouquetrender/Frontend-Yearly/issues/11)
 - [通过写 on-change 库理解 JavaScript Proxy](https://github.com/bouquetrender/Frontend-Yearly/issues/1)
