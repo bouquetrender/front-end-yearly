@@ -2,8 +2,9 @@
 
 I wrote some front-end articles, probably a few or zero times a year to update
 
-我写的一些前端开发相关的文章，大概一年更新几次或零次
+我写的一些前端开发相关的文章
 
+- [前端请求响应数据的加解密流程实践](https://github.com/bouquetrender/front-end-yearly/issues/13)
 - [Vite 构建工具配置指南](https://github.com/bouquetrender/front-end-yearly/issues/12)
 - [Fiber Reconciler](https://github.com/bouquetrender/Frontend-Yearly/issues/11)
 - [通过写 on-change 库理解 JavaScript Proxy](https://github.com/bouquetrender/Frontend-Yearly/issues/1)
