@@ -4,6 +4,8 @@ I wrote some front-end articles, probably a few or zero times a year to update
 
 我写的一些前端开发相关的文章
 
+- [减少 React 组件的重新渲染](https://github.com/bouquetrender/front-end-yearly/issues/15)
+- [Docker 笔记](https://github.com/bouquetrender/front-end-yearly/issues/14)
 - [前端请求响应数据的加解密流程实践](https://github.com/bouquetrender/front-end-yearly/issues/13)
 - [Vite 构建工具配置指南](https://github.com/bouquetrender/front-end-yearly/issues/12)
 - [Fiber Reconciler](https://github.com/bouquetrender/Frontend-Yearly/issues/11)
