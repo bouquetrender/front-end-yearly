@@ -2,7 +2,7 @@
 
 I wrote some front-end articles, probably a few or zero times a year to update
 
-我写的一些前端开发相关的文章
+我写的一些前端开发相关的记录文章
 
 - [oxlint 基于 Rust 的 Linter 工具](https://github.com/bouquetrender/front-end-yearly/issues/16)
 - [减少 React 组件的重新渲染](https://github.com/bouquetrender/front-end-yearly/issues/15)
