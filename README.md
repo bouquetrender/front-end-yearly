@@ -2,10 +2,11 @@
 
 I wrote some front-end articles, probably a few or zero times a year to update
 
-我写的一些前端开发相关的记录文章
+我写的一些前端开发相关的文章笔记
 
+- [Headless Components 无头组件](https://github.com/bouquetrender/front-end-yearly/issues/20)
 - [CSS 实现基于页面滚动的动画](https://github.com/bouquetrender/front-end-yearly/issues/19)
-- [SEO 记录](https://github.com/bouquetrender/front-end-yearly/issues/17)
+- [页面 SEO 记录](https://github.com/bouquetrender/front-end-yearly/issues/17)
 - [oxlint 基于 Rust 的 Linter 工具](https://github.com/bouquetrender/front-end-yearly/issues/16)
 - [减少 React 组件的重新渲染](https://github.com/bouquetrender/front-end-yearly/issues/15)
 - [Docker 笔记](https://github.com/bouquetrender/front-end-yearly/issues/14)
