@@ -4,7 +4,7 @@ I wrote some front-end articles, probably a few or zero times a year to update
 
 我写的一些前端开发相关的文章笔记
 
-- [LangChain & LangGraph](https://github.com/bouquetrender/front-end-yearly/issues/23)
+- [LangChain and LangGraph](https://github.com/bouquetrender/front-end-yearly/issues/23)
 - [CSS 动画效果展示页面的设计思路](https://github.com/bouquetrender/front-end-yearly/issues/21)
 - [Next.js Rendering](https://github.com/bouquetrender/front-end-yearly/issues/18)
 - [Headless Components 无头组件](https://github.com/bouquetrender/front-end-yearly/issues/20)
